@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Simple Code lessons": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
